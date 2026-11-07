@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🕵️‍♂️ Criminal Face Detection & Law Enforcement Database Management System
+  # Criminal Face Detection & Law Enforcement Database Management System
   ### *Relational Database Architecture, ER Modeling, SQL Schema Design, and Java JDBC Persistence Layer for Biometric Criminal Identification & Case Tracking*
 
   ![MySQL](https://img.shields.io/badge/Database-MySQL_Relational_RDBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
